@@ -27,6 +27,12 @@ obsidian/Preferences
 obsidian/Local State
 obsidian/id
 
+# Boot.dev API tokens
+bootdev/config.yaml
+
+# Tailscale SSH known hosts
+tailscale/ssh_known_hosts
+
 # Other potentially sensitive files
 *.bak
 *.bak.*
