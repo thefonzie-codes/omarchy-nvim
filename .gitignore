@@ -1,0 +1,33 @@
+# Obsidian browser cache and sensitive data
+obsidian/Cache/
+obsidian/Code Cache/
+obsidian/Cookies
+obsidian/Cookies-journal
+obsidian/Session Storage/
+obsidian/Local Storage/
+obsidian/IndexedDB/
+obsidian/WebStorage/
+obsidian/GPUCache/
+obsidian/DawnGraphiteCache/
+obsidian/DawnWebGPUCache/
+obsidian/Shared Dictionary/
+obsidian/SharedStorage
+obsidian/SharedStorage-wal
+obsidian/SingletonCookie
+obsidian/SingletonLock
+obsidian/SingletonSocket
+obsidian/TransportSecurity
+obsidian/Trust Tokens
+obsidian/Trust Tokens-journal
+obsidian/Network Persistent State
+obsidian/Crashpad/
+obsidian/DIPS
+obsidian/DIPS-wal
+obsidian/Preferences
+obsidian/Local State
+obsidian/id
+
+# Other potentially sensitive files
+*.bak
+*.bak.*
+lazy-lock.json
